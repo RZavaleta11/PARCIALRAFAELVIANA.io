@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+
+div.jumbotron.jumbotron-fluid{
+	background-color:#F2D230;
+}
+
+nav{ color: aqua;
+	font-family: 'Oswald', sans-serif;
+}
+
+h1{ 
+	font-size: 100px;
+	font-family: 'Oswald', sans-serif;
+}
+
+p{
+	font-family: 'Oswald', sans-serif;
+}
+
+.btn btn-success
+
+.btn{
+	color: #0D0D0D;
+  background-color:#F2D230;
+  border-color:#A67721;
+	
+}
+
+.btn-primary{
+	color: #0D0D0D;
+	background-color:#F2D230;
+	border-color: #F2D230;
+}
+
+.btn-primary:hover {
+  color:#0D0D0D;
+  background-color:#A67C2E;
+  border-color:#F2D230;
+}
+
+.btn-primary:focus, .btn-primary.focus {
+  color: #0D0D0D;
+  background-color: #F2D230;
+  border-color: #F2D230;
+  box-shadow: 0 0 0 0.2rem rgba(38, 143, 255, 0.5);
+}.nombreMarca {
+}
